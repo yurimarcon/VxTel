@@ -50,6 +50,6 @@ DELETE
 	
 # Conclusão:
 
-Esse é um simples projeto didatido que faz a utilização de algumas tecnologias.
+Esse é um simples projeto didático que faz a utilização de algumas tecnologias.
 Estou a disposição para tirar dúvidas através do e-mail: yuri.erik.oliveira@gmail.com.
 Também ficarei feliz em receber algum feedback para melhoria ou apontamento de erros sobre esse simples projeto.
