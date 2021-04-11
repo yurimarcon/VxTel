@@ -1,0 +1,19 @@
+version: '3.7'
+
+services:
+  app:
+    build: ./app
+    volumes: 
+      - ./app:/app
+    working_dir: /app
+    ports:
+      - 8080:8080
+    command: ['npm', 'run', 'serve']
+  api:
+    build: ./api/v_1
+    volumes: 
+      - ./api:/api
+    working_dir: /api
+    ports:
+      - 3000:3000
+    command: ['node', 'v_1/src/index']
