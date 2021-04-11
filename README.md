@@ -48,5 +48,8 @@ DELETE
 	4ª API – Envia o “_id” da linha que foi clicada na lixeira, para ser apagado o registro no MongoDB.
 
 	
-#Conclusão:
-Esse é um simples projeto didatido que faz a utilização de algumas tecnologias. Estou a disposição para tirar dúvidas através do e-mail: yuri.erik.oliveira@gmail.com. Também ficarei feliz em receber algum feedback para melhoria ou apontamento de erros sobre esse simples projeto.
+# Conclusão:
+
+Esse é um simples projeto didatido que faz a utilização de algumas tecnologias.
+Estou a disposição para tirar dúvidas através do e-mail: yuri.erik.oliveira@gmail.com.
+Também ficarei feliz em receber algum feedback para melhoria ou apontamento de erros sobre esse simples projeto.
