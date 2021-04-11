@@ -31,11 +31,11 @@ Banco de dados:
 
 4-	Na tela de “Home” você faz as simulações colocando os dados na tela e clicando no botão “Calcular” (chama a 1ª API), caso queira gravar a sua cotação no banco de dados é só clicar no botão “Gravar no histórico”(2ª API).
 
-	![image](https://user-images.githubusercontent.com/44410208/114288289-c0ead080-9a44-11eb-97cd-6db33a91aff5.png)
+![image](https://user-images.githubusercontent.com/44410208/114288289-c0ead080-9a44-11eb-97cd-6db33a91aff5.png)
 
 5-	Ao clicar no canto superior em “Histórico” (3ª API), você pode consultar as simulações que estão gravadas no banco de dados. Caso queira remover algum registro, basta clicar na lixeira que está na última coluna de cada linha (4ª API), assim remove o registro do MongoDB.
 
-	![image](https://user-images.githubusercontent.com/44410208/114288300-d65ffa80-9a44-11eb-9fbd-e837f17b766c.png)
+![image](https://user-images.githubusercontent.com/44410208/114288300-d65ffa80-9a44-11eb-9fbd-e837f17b766c.png)
 
 6-	APIs criadas:
 Foram criadas 4 APIs:
