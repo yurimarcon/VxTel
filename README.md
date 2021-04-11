@@ -6,11 +6,11 @@ Caso não tenha o Docker instalado na máquina precisará instalar, ou executar 
 
 1-	Abra o cmd e navegue até a pasta do projeto e rode o comando “Docker-compose up”( isso pode demorar alguns minutos na primeira vez ):
 
- 	![image](https://user-images.githubusercontent.com/44410208/114288273-9bf65d80-9a44-11eb-9be7-135cd9ba9c70.png) 	
+![image](https://user-images.githubusercontent.com/44410208/114288273-9bf65d80-9a44-11eb-9be7-135cd9ba9c70.png) 	
 
 2-	Após isso o projeto estará rodando na porta :8080 e o cmd deverá conter essas informações a baixo. E o projeto estará rodando na url: http://localhost:8080/
 
- 	![image](https://user-images.githubusercontent.com/44410208/114288280-aa447980-9a44-11eb-9114-f2328e3908e8.png)
+![image](https://user-images.githubusercontent.com/44410208/114288280-aa447980-9a44-11eb-9114-f2328e3908e8.png)
 
 3-	Nesse projeto foram utilizados as seguintes tecnologias: 
 FrontEnd:
@@ -48,3 +48,5 @@ DELETE
 	4ª API – Envia o “_id” da linha que foi clicada na lixeira, para ser apagado o registro no MongoDB.
 
 	
+#Conclusão:
+Esse é um simples projeto didatido que faz a utilização de algumas tecnologias. Estou a disposição para tirar dúvidas através do e-mail: yuri.erik.oliveira@gmail.com. Também ficarei feliz em receber algum feedback para melhoria ou apontamento de erros sobre esse simples projeto.
